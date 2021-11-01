@@ -3,7 +3,7 @@
 Autora: Javiera Tapia Bobadilla
 
 ## Características
-Lenguage: Julia (https://julialang.org/)
+Lenguaje: Julia (https://julialang.org/)
 
 ## Instrucciones
 
